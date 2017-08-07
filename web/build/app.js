@@ -68,9 +68,6 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 const resize = __webpack_require__(1);
-
-var imgResize = (function (window, $, resize) {
-
         resize.init();
 
         // Upload photo
@@ -127,12 +124,6 @@ var imgResize = (function (window, $, resize) {
         }
 
     });
-
-    });
-
-
-
-module.exports = imgResize;
 
 /***/ }),
 /* 1 */

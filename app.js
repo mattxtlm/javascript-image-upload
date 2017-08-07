@@ -1,7 +1,4 @@
 const resize = require('./resize');
-
-var imgResize = (function (window, $, resize) {
-
         resize.init();
 
         // Upload photo
@@ -58,9 +55,3 @@ var imgResize = (function (window, $, resize) {
         }
 
     });
-
-    });
-
-
-
-module.exports = imgResize;
