@@ -14,3 +14,9 @@ Temporary Items
 
 # Images
 /images/
+
+\.idea/
+
+# Node Modules
+/node_modules/
+

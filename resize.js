@@ -1,6 +1,8 @@
-window.resize = (function () {
+'use strict';
 
-	'use strict';
+var resize = (function () {
+
+
 
 	function Resize() {
 		//
@@ -80,3 +82,5 @@ window.resize = (function () {
 	return Resize;
 
 }());
+
+module.exports = resize;

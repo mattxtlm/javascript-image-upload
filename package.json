@@ -1,0 +1,25 @@
+{
+  "name": "imgresize",
+  "version": "1.0.0",
+  "description": "JS Image Resize and Upload",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelvardy/javascript-image-upload.git"
+  },
+  "keywords": [
+    "resize",
+    "upload",
+    "images"
+  ],
+  "author": "joelvardy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelvardy/javascript-image-upload/issues"
+  },
+  "homepage": "https://github.com/joelvardy/javascript-image-upload#readme",
+  "dependencies": {}
+}
